@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wambugu-muchiri-company-advocates.vercel.app/sitemap.xml
